@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Nusret</h1>
 <h3 align="center">A passionate Programmer</h3>
-<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
+<p align="center">My fascination with computer technology has grown as I've seen its transformative impact on our lives. This experience inspired me to study software engineering, a field I've become increasingly passionate about. I enjoy exploring new technologies and using them to create innovative projects. 🛠️</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=nusretkrsli&label=Profile%20views&color=0e75b6&style=flat" alt="nusretkrsli" /> 
 <!--  <img src="https://img.shields.io/badge/Languages-Python | JavaScrpit| GraphQL | Typescript | Node | React -green.svg" alt="nusret's languages" /> -->
