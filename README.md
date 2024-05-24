@@ -29,10 +29,6 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🔭 I’m currently working on Python
-
-- 🌱 I’m currently learning Numpy
-
 - 📫 How to reach me **karslinusret86@gmail.com**
 
 - ⚡ Fun fact **I think I'm funny**
